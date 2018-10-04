@@ -23,7 +23,7 @@ crashing, using special powerups, and a sound for the tank when driving. There w
 tracks for when a horde is approaching to warn the player to get ready.
 
 6. ## Gameplay
-The player moves using the arrow or "asdw" keys on the keyboard. To fire at incoming enemies, the player 
+- The player moves using the arrow or "asdw" keys on the keyboard. To fire at incoming enemies, the player 
 must click where they want the missles to land. To use powerups, the player must click the button for them in the
 bottom left corner. If it's an attack powerup, the next mouse click will be the location that attack
 will land. For every station the player makes it to, the tank will automatically get a health bonus and if
