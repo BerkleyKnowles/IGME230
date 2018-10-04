@@ -40,4 +40,6 @@ will be a pop up page that explains how to interact with and use them.
 ![conceptArt](https://people.rit.edu/bnk5901/230/project1/media/conceptArt.jpg)
 ![conceptArt2](https://people.rit.edu/bnk5901/230/project1/media/conceptArt2.jpg)
 
-8. ##About
+8. ## About the Developer
+Made by Berkley Knowles, a Game Design and Develoment major at RIT, currently a sophmore who is interested in 
+programming and maya.
