@@ -1,4 +1,4 @@
-# Apocalypse Run
+# *Apocalypse Run*
 
 1. ## High Concept
 Shoot at incoming zombies and dodge hazardous obstacles as you travel in a tank to collect as 
@@ -30,7 +30,7 @@ will land. For every station the player makes it to, the tank will automatically
 provided with supplies the player collected (by driving over the items), they will be awarded extra powerups.
 The goal of the game is to travel as far as possible while killing as many zombies as possible. The more kills,
 the greater the player's score is in the end.
-	###Teaching the Game/Player Learning
+	.###Teaching the Game/Player Learning
 	The player will learn the objective and controls of the game on a pop up page that appears before the
 	game starts. While playing, if the player collects a powerup for the first time, a pop up will appears
 	to explain the use of that powerup. When the player first reaches a supply dropoff station, again, there
@@ -39,3 +39,5 @@ the greater the player's score is in the end.
 7. ## Screenshots
 ![conceptArt](https://people.rit.edu/bnk5901/230/project1/media/conceptArt.jpg)
 ![conceptArt2](https://people.rit.edu/bnk5901/230/project1/media/conceptArt2.jpg)
+
+8. ##About
